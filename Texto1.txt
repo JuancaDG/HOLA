@@ -1,0 +1,8 @@
+Mi primer archivo de Texto 
+Python en TP2 
+Escrito desde Jupyter
+Adicionando esta linea
+ continuando con ficheros en Python
+ continuando con ficheros en Python
+continuando con ficheros en Python
+ continuando con ficheros en Python
