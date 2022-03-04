@@ -6,3 +6,4 @@ Se agregó otra linea de texto por colaboración (Isabel)
 Editando desde read.me (Xiomara)
 linea adicional (valeria a)
 editando en la Copia-1 (Anthony)
+--------PRACTICANDO_la clase de la profesora(Juan Carlos)------ 
